@@ -1,0 +1,17 @@
+groupname,overallocation,conflicts,undersupport,unwilling,unpreferred
+Kaito,0,0,2,0,1
+Kaito,0,0,1,0,2
+Kaito,1,0,0,1,1
+Kaito,0,0,1,1,1
+Kaito,1,0,0,2,0
+Kaito,1,0,2,0,0
+Kaito,0,0,0,3,0
+Kaito,0,0,0,2,1
+Kaito,0,0,0,1,2
+Kaito,1,0,1,1,0
+Kaito,1,0,0,0,2
+Kaito,0,0,2,1,0
+Kaito,0,0,0,0,3
+Kaito,0,0,1,2,0
+Kaito,0,0,3,0,0
+Kaito,1,0,1,0,1
